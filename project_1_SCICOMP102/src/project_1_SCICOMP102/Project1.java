@@ -1,7 +1,3 @@
-// Name: Robin Martin van den Berg
-// This project is all my own work.
-// I have not knowingly allowed others to copy my work.
-
 package project_1_SCICOMP102;
 
 import java.util.Scanner; // Import Scanner class. 
